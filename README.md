@@ -13,4 +13,4 @@ Repository for personal CIS350 assignments
 Java foundations courses completed(2). Coursework completed in both statistics and discrete mathematics. 
 
 ### Favorite Meme
-https://brobible.com/wp-content/uploads/2020/08/50-best-memes-life-fixed.jpg
+[Jazz in a nutshell](https://brobible.com/wp-content/uploads/2020/08/50-best-memes-life-fixed.jpg)
