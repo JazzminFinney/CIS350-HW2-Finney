@@ -1,3 +1,7 @@
+# Welcome to my page lovely people!! :D
+Personal Repo for Github
+
+
 # About Jazzmin Finney
 
 ## Personal Interests
