@@ -14,3 +14,5 @@ Java foundations courses completed(2). Coursework completed in both statistics a
 
 ### Favorite Meme
 [Jazz in a nutshell](https://brobible.com/wp-content/uploads/2020/08/50-best-memes-life-fixed.jpg)
+
+[Have a Fantastic Day](https://youtu.be/dQw4w9WgXcQ)
